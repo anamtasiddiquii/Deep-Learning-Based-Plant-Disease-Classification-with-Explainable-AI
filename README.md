@@ -64,13 +64,6 @@ Plant-Disease-Detection/
 * Develop a mobile-friendly interface.
 * Add disease treatment and prevention recommendations.
 
-## 📜 License
+📜 License
 
-This project is licensed under the **MIT License**.
-
-## 👩‍💻 Author
-
-**Anamta Siddiqui**
-
-Computer Engineering Undergraduate
-Interested in **Machine Learning, Data Analytics, Deep Learning, and Explainable AI**.
+This project is licensed under the MIT License
